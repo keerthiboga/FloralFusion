@@ -5,7 +5,7 @@
 }
 body
 {
-    background:url("../New folder/bckgrnd2.png");
+    background:url("./New folder/bckgrnd2.png");
     background-size: cover;
     color:black;
 }
@@ -26,7 +26,7 @@ body
 {
     height:650px;
     width:100%;   
-    background: url("../New folder/bckgrnd2.png");
+    background: url("./New folder/bckgrnd2.png");
     background-size: cover;
 }
 .txt
@@ -60,24 +60,24 @@ button:hover{
 }
 #box1
 {
-    background: url("../New folder/img8.png");
+    background: url("./New folder/img8.png");
     background-size: cover;
 }
 
 #box2
 {
-    background: url("../New folder/img6.png");
+    background: url("./New folder/img6.png");
     background-size: cover;
     
 }
 #box3
 {
-    background:url("../New folder/img3.png");
+    background:url("./New folder/img3.png");
     background-size: cover;
 }
 #box4
 {
-    background: url("../New folder/img11.png");
+    background: url("./New folder/img11.png");
     background-size: cover;
 }
 .box
@@ -97,22 +97,22 @@ button:hover{
 }
 #box5
 {
-    background: url("../New folder/img10.png");
+    background: url("./New folder/img10.png");
     background-size: cover;
 }
 #box6
 {
-    background: url("../New folder/img5.png");
+    background: url("./New folder/img5.png");
     background-size: cover; 
 }
 #box7
 {
-    background: url("../New folder/img14.png");
+    background: url("./New folder/img14.png");
     background-size: cover;
 }
 #box8
 {
-    background: url("../New folder/img4.png");
+    background: url("./New folder/img4.png");
     background-size: cover;
 }
 .offerimg
@@ -142,12 +142,12 @@ button:hover{
 }
 #box9
 {
-    background: url("../New folder/bckgrnd1.png");
+    background: url("./New folder/bckgrnd1.png");
     background-size: cover;
 }
 #box10
 {
-    background: url("../New folder/background3.png");
+    background: url("./New folder/background3.png");
     background-size: cover;
 }
 .top
@@ -168,22 +168,22 @@ button:hover{
 }
 #box11
 {
-    background: url("../New folder/img1.png");
+    background: url("./New folder/img1.png");
     background-size: cover;
 }
 #box12
 {
-    background: url("../New folder/img9.png");
+    background: url("./New folder/img9.png");
     background-size: cover;
 }
 #box13
 {
-    background: url("../New folder/img15.png");
+    background: url("./New folder/img15.png");
     background-size: cover;
 }
 #box14
 {
-    background: url("../New folder/img13.png");
+    background: url("./New folder/img13.png");
     background-size: cover;
 }
 .footer
